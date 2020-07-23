@@ -1,2 +1,2 @@
-# curso-amanda.github.com
+# curso-amanda.github.io
 The website for Curso
